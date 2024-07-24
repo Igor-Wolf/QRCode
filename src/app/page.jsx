@@ -22,7 +22,7 @@ export default function Home() {
     parametro.preventDefault();
     const texto = parametro.target.elements.textoBox.value;
     setData(texto);
-    alert(texto);
+    
   }
 
   const handleDownload = () => {
