@@ -11,4 +11,4 @@ Os testes foram realizados nos navegadores Mozilla Firefox e Google Chrome, util
 
 ## Acesso ao Site
 
-O site completo pode ser acessado [AQUI](https://notes-app-igor-wolf.vercel.app/).
+O site completo pode ser acessado [AQUI](https://qr-code-three-weld.vercel.app/).
