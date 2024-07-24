@@ -7,7 +7,7 @@ Os testes foram realizados nos navegadores Mozilla Firefox e Google Chrome, util
 
 ## Organização dos Arquivos
 
-![Organização dos Arquivos](https://github.com/Igor-Wolf/NotesApp/blob/main/demo.png?raw=true)
+![Organização dos Arquivos](https://github.com/Igor-Wolf/QRCode/blob/main/demo.png?raw=true)
 
 ## Acesso ao Site
 
