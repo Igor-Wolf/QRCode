@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+
 export const ExternalContainer = styled.div`
 
     display: flex;

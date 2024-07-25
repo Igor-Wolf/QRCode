@@ -38,10 +38,15 @@ export const Wrapper = styled.div`
     
     
         position: auto;
+        
+        
+
 
 
   }
-
+  @media (max-height: 500px) {
+    display: none;
+  }
 `
 
 export const TextLink = styled.p` 

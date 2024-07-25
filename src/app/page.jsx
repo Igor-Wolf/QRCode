@@ -6,7 +6,8 @@ import {
   Form,
   FormGroup,
   Input,
-  Label
+  Label,
+  Spacing
 } from "./styles";
 import { Footer } from "./Components/Footer";
 import { Header } from "./Components/Header";
@@ -63,6 +64,7 @@ export default function Home() {
         </Form>
 
         <Button title="Baixar QR Code" onClick={handleDownload} />
+        
         
         <Footer />
       </InternalContainer>
