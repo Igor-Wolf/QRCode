@@ -34,10 +34,10 @@ export const Wrapper = styled.div`
     bottom: 0;
     position: fixed;  
 
-    @media (max-width: 768px) {
+    @media (max-width: 500px) {
     
     
-    
+        position: auto;
 
 
   }
